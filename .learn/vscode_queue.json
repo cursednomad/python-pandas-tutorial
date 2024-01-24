@@ -1,1 +1,1 @@
-[{"name":"initializing","time":4367635.891},{"name":"reset","time":4367682.592},{"name":"configuration_loaded","time":4499042.118}]
+[{"name":"initializing","time":1078407.138},{"name":"reset","time":1078450.67},{"name":"configuration_loaded","time":1123738.276},{"name":"start_exercise","time":1039336.426,"data":"00-welcome"},{"name":"start_exercise","time":776270.651,"data":"06-clean-datasets"},{"name":"start_exercise","time":1893280.123,"data":"06.1-remove-column"}]
